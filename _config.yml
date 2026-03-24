@@ -1,5 +1,20 @@
-# The Site Configuration
+title: Inas Salkanovic
+tagline: Network Security · Pentesting · Infrastructure
+description: HTB writeups, homelab projects and security research
+url: "https://lunkan387.github.io"
+lang: en
+timezone: Europe/Paris
+theme_mode: # laisser vide = toggle auto dark/light
 
+github:
+  username: Lunkan387
+
+social:
+  name: Inas Salkanovic
+  email: inassalkanovic40@gmail.com
+  links:
+    - https://github.com/Lunkan387
+    - https://www.linkedin.com/in/inas-salkanovic-3b46a6303
 # Import the theme
 theme: jekyll-theme-chirpy
 
